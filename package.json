@@ -1,0 +1,33 @@
+{
+  "name": "@sherif-fanous/pi-dracula",
+  "version": "0.1.0",
+  "description": "Dracula themes for the Pi Coding Agent",
+  "keywords": [
+    "pi",
+    "pi-coding-agent",
+    "pi-package",
+    "dracula",
+    "theme"
+  ],
+  "homepage": "https://github.com/sherif-fanous/pi-dracula#readme",
+  "bugs": {
+    "url": "https://github.com/sherif-fanous/pi-dracula/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sherif-fanous/pi-dracula.git"
+  },
+  "license": "MIT",
+  "author": "Sherif Fanous",
+  "files": [
+    "themes/",
+    "CHANGELOG.md",
+    "LICENSE",
+    "README.md"
+  ],
+  "pi": {
+    "themes": [
+      "./themes"
+    ]
+  }
+}
