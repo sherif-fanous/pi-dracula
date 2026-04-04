@@ -71,8 +71,8 @@
     "bashMode": "orange"
   },
   "export": {
-    "pageBg": "#bcbab3",
-    "cardBg": "#fffbeb",
-    "infoBg": "#efeddc"
+    "pageBg": "bgDarker",
+    "cardBg": "background",
+    "infoBg": "bgLight"
   }
 }
