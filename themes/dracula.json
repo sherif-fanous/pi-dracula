@@ -1,6 +1,7 @@
 {
   "$schema": "https://pi.dev/schemas/theme.schema.json",
   "name": "dracula",
+  "appearance": "dark",
   "vars": {
     "background": "#282a36",
     "selection": "#44475a",
@@ -29,7 +30,11 @@
     "dim": "comment",
     "text": "foreground",
     "thinkingText": "comment",
+    "scrollbarTrack": "selection",
+    "scrollbarThumb": "comment",
     "selectedBg": "selection",
+    "searchMatchBg": "selection",
+    "searchMatchText": "orange",
     "userMessageBg": "floating",
     "userMessageText": "foreground",
     "customMessageBg": "floating",
