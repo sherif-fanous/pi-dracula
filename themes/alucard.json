@@ -3,7 +3,7 @@
   "name": "alucard",
   "vars": {
     "background": "#fffbeb",
-    "selection": "#6c664b",
+    "selection": "#cfcfde",
     "foreground": "#1f1f1f",
     "comment": "#6c664b",
     "cyan": "#036a96",
