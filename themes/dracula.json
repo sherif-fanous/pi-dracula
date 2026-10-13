@@ -26,7 +26,7 @@
     "error": "red",
     "warning": "orange",
     "muted": "comment",
-    "dim": "currentLine",
+    "dim": "comment",
     "text": "foreground",
     "thinkingText": "comment",
     "selectedBg": "currentLine",
