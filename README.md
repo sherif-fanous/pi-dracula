@@ -1,6 +1,7 @@
 # @sherif-fanous/pi-dracula
 
-Dracula themes for the Pi Coding Agent. This package provides both the Dracula and Alucard flavors as installable Pi themes.
+Dracula themes for the Pi Coding Agent. This package provides both the Dracula
+and Alucard flavors as installable Pi themes.
 
 ## Install
 
