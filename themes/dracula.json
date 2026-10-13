@@ -67,13 +67,14 @@
     "syntaxType": "cyan",
     "syntaxOperator": "pink",
     "syntaxPunctuation": "foreground",
-    "thinkingOff": "selection",
-    "thinkingMinimal": "comment",
+    "thinkingOff": "comment",
+    "thinkingMinimal": "purple",
     "thinkingLow": "cyan",
     "thinkingMedium": "green",
-    "thinkingHigh": "orange",
-    "thinkingXhigh": "red",
-    "bashMode": "orange"
+    "thinkingHigh": "yellow",
+    "thinkingXhigh": "orange",
+    "thinkingMax": "red",
+    "bashMode": "pink"
   },
   "export": {
     "pageBg": "bgDarker",
